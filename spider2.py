@@ -4,7 +4,6 @@ while 1:
     if not line:
         break
     print line
-    print "hello pigeon"
     
 '''
 
